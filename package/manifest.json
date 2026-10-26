@@ -1,7 +1,7 @@
 {
   "name": "FpvDrone",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/imdizmo/FpvDrone",
   "description": "Fly an FPV racing drone through your Valheim world with a gamepad (PS4/Xbox): acro and angle modes, goggles-style OSD, crashes, battery and range.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202"
