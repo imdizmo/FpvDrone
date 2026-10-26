@@ -1,5 +1,7 @@
 # FpvDrone
 
+[![Join the Discord](https://jatify.com/badges/discord.png)](https://discord.gg/Ru9t2KdfVK) [![Buy me a coffee](https://jatify.com/badges/coffee.png)](https://buymeacoffee.com/imdizmo)
+
 Launch an FPV racing drone from your character and fly it through your world with a gamepad.
 
 ## Controls (Mode 2)
