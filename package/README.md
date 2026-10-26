@@ -2,7 +2,7 @@
 
 [![Join the Discord](https://jatify.com/badges/discord.png)](https://discord.gg/Ru9t2KdfVK) [![Buy me a coffee](https://jatify.com/badges/coffee.png)](https://buymeacoffee.com/imdizmo)
 
-Launch an FPV racing drone from your character and fly it through your world with a gamepad.
+Launch an FPV racing drone from your character and fly it through your world with a gamepad (a keyboard works too).
 
 ## Controls (Mode 2)
 
@@ -34,6 +34,9 @@ Client-side: nothing is added to the world and other players see nothing.
 
 ## Credits
 
+- Mod loader: [BepInEx](https://github.com/BepInEx/BepInEx).
 - Code: written together with Claude (Anthropic's AI), which shows up as a co-author in the commit history.
+
+FpvDrone is an unofficial, fan-made mod. It is not made, endorsed or supported by Iron Gate AB. Please report FpvDrone bugs [on GitHub](https://github.com/imdizmo/FpvDrone/issues). Valheim is a trademark of Iron Gate AB.
 
 Source: https://github.com/imdizmo/FpvDrone (MIT; the MIT licence covers FpvDrone's own code only)
